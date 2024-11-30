@@ -1,0 +1,26 @@
+
+#preview-container{
+    display: flex;
+}
+#preview-container .img-box{
+    width: 200px;
+    border: 1px solid blue;
+    margin: 5px;
+    padding: 3px;
+}
+
+.img-box img {
+    width: 100%;
+}
+
+.img-order-detail{
+    overflow: hidden;
+    height: 5000px;
+}
+
+.tp-order-details-icon span {
+    overflow: hidden;
+}
+.main{
+    display: flex;
+}
