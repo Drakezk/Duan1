@@ -119,6 +119,7 @@
                         <p>© 2024 Shop Bán Quần Áo Shofy <br> Địa chỉ: 79 Cầu Giấy, TP. Hà Nội - Điện thoại: +(84) 469 85 816</p>
                      </div>
                   </div>
+                  <div></div>
                   <div class="col-md-6">
                      <div class="tp-footer-payment text-md-end">
                         <p>
