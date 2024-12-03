@@ -83,7 +83,7 @@ if (isset($_SESSION['user'])) {
 
                            <!-- header -->
                            <li class="tp-order-info-list-header">
-                              <h4>Product</h4>
+                              <h4>Products</h4>
                               <h4>Total</h4>
                            </li>
 
