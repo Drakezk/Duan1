@@ -98,7 +98,7 @@ if (strpos($currenturl, '&page_no') !== false) {
       </div>
    </section>
    <!-- breadcrumb area end -->
-<div></div>
+
    <!-- shop area start -->
    <section class="tp-shop-area pb-120">
       <div class="container">
