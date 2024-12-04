@@ -54,7 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 ?>
 
-<div class="cont col-md-10">
+<div class="cont col-md-10 p-4">
     <!-- search box -->
 <nav class="navbar navbar-light bg-light">
     <div class="container-fluid">
