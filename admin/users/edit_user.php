@@ -67,7 +67,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
 ?>
 
 <!-- form -->
-<section class="form col-md-10">
+<section class="form col-md-10 p-4">
     <form class="row g-3" method="post" enctype="multipart/form-data">
         <div class="col-md-6">
             <label for="inputEmail4" class="form-label">Email</label>
